@@ -125,7 +125,7 @@ Inference-Time Feedback Loop: The HSP acts as a zero-shot discriminator. If a ge
 
 PPO/DPO Optimization: Ultimately, we will formulate orchestration as a Markov Decision Process (MDP), utilizing Proximal Policy Optimization (PPO) or Direct Preference Optimization (DPO) to fine-tune our alignment models against both objective YouTube metrics and subjective human rewards.
 
-![Future Work](./Demo/future_work.png)
+![Future Work](./Demo/future.png)
 
 ---
 
